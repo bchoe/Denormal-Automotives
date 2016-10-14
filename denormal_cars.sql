@@ -1,5 +1,3 @@
-
-
 --In denormal.sql Create a query to get a list of all
 --make_title values in the car_models table,
 --without any duplicate rows. (should have 71 results)
